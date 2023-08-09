@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          click to this updated link
+          Click to this updated link
         </a>
       </header>
     </div>
