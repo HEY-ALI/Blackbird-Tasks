@@ -1,14 +1,12 @@
-
 import './App.css';
-const logo = "https://www.propelleraero.com/wp-content/uploads/2021/05/Vector.svg"
-
+const logo = "https://www.propelleraero.com/wp-content/uploads/2021/05/Vector.svg";
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Visit propelleraero
+          Visit to Propelleraero
         </p>
         <a
           className="App-link"
@@ -16,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click on this updated link
+          click to this updated link
         </a>
       </header>
     </div>
